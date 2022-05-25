@@ -6,7 +6,7 @@ invoke==1.4.1
 numpy==1.18.1
 pandas==1.0.1
 PyGithub==1.45
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-dateutil==2.8.1
 pytz==2019.3
 PyYAML==5.3
