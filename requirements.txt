@@ -3,7 +3,7 @@ chardet==3.0.4
 Deprecated==1.2.7
 idna==2.8
 invoke==1.4.1
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 PyGithub==1.45
 PyJWT==1.7.1
